@@ -43,3 +43,5 @@ Le code suivant :
 ```sqf
 uiNamespace setVariable ["VehicleList", _vehicles];
 ```
+
+https://youtu.be/6WlEVgsfJ0A
